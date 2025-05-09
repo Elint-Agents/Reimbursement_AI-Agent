@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Colab checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+myenv/
+
+# Jupyter Notebook temp files
+*.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Python virtual environments and packages
+*.egg-info/
+*.egg
+*.whl
+build/
+dist/
+pip-wheel-metadata/
+*.pyo
+
+# Logs and outputs
+*.log
+*.out
+*.bak
+
+# Zip files and archives
+*.zip
+*.tar.gz
+*.rar
+
+# Token or API credential files (customize as needed)
+credentials.json
+token.json
+config.yaml
+secrets.env
+
+# OCR-related temp files (optional)
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.hocr
+*.box
+*.traineddata
+
+# VS Code settings (if using)
+.vscode/
+
+# Google Colab drive mount (if used)
+drive/
