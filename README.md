@@ -92,3 +92,6 @@ This project is a community-driven initiative, actively developed and maintained
 ## Powered by Elint Data
 <img width="50%" src="images\old_elint.png">
 
+![Company Logo](assets/Elint_data_logo.png)
+
+
